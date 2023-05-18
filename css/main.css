@@ -2331,7 +2331,7 @@ input, select, textarea {
 
 		}
 
-		@media screen and (max-width: 736px) {
+		@media screen and (max-width: 414px) {
 
 			.icon.major {
 				margin: 0 0 1.5em 0;
@@ -2683,7 +2683,7 @@ input, select, textarea {
 		margin-top: 2em;
 	}
 
-	@media screen and (max-width: 736px) {
+	@media screen and (max-width: 414px) {
 
 		header.major {
 			margin-bottom: 0;
@@ -2847,7 +2847,7 @@ input, select, textarea {
 
 		}
 
-		@media screen and (max-width: 736px) {
+		@media screen and (max-width: 414px) {
 
 			.features {
 				width: 100%;
@@ -2946,7 +2946,7 @@ input, select, textarea {
 
 		}
 
-		@media screen and (max-width: 736px) {
+		@media screen and (max-width: 414px) {
 
 			.statistics {
 				display: block;
@@ -3060,7 +3060,7 @@ input, select, textarea {
 
 		}
 
-		@media screen and (max-width: 736px) {
+		@media screen and (max-width: 414px) {
 
 			.spotlight .image {
 				padding: 0.35em;
@@ -3641,7 +3641,7 @@ input, select, textarea {
 
 		}
 
-		@media screen and (max-width: 736px) {
+		@media screen and (max-width: 414px) {
 
 			#main > .main {
 				padding: 3em 2em 1em 2em ;
