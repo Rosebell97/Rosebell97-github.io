@@ -1911,7 +1911,7 @@ input, select, textarea {
 			opacity: 0.25;
 		}
 
-		@media screen and (max-width: 736px) {
+		@media screen and (max-width: 414px) {
 
 			input[type="submit"],
 			input[type="reset"],
