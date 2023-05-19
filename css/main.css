@@ -3268,7 +3268,7 @@ input, select, textarea {
 		}
 
 		#nav + #main {
-			padding-top: 3em;
+			padding-top: 0;
 		}
 
 		#nav ul {
