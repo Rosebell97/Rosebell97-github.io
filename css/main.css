@@ -18,7 +18,9 @@ section, summary, time, mark, audio, video {
 	border: 0;
 	font-size: 100%;
 	font: inherit;
-	vertical-align: baseline;}
+	vertical-align: baseline;
+	text-align:center;
+}
 
 h3 {
 	text-align:center;
@@ -2506,7 +2508,8 @@ input, select, textarea {
 		display: flex;
 		cursor: default;
 		list-style: none;
-		margin-left: -1em;
+		margin-left:1em;
+		margin-right: 1em;
 		padding-left: 0;
 	}
 
@@ -3006,7 +3009,8 @@ input, select, textarea {
 
 		.spotlight .image {
 			display: inline-block;
-			margin-left: 4em;
+			margin-left: 2em;
+			margin-right: 2em;
 			padding: 0.65em;
 			border-radius: 100%;
 			border: solid 3px;
@@ -3054,7 +3058,6 @@ input, select, textarea {
 					-webkit-flex: 0 1 auto;
 					-ms-flex: 0 1 auto;
 					flex: 0 1 auto;
-					margin-left: 0;
 					margin-bottom: 2em;
 				}
 
@@ -3739,7 +3742,6 @@ input, select, textarea {
 
 				#footer > * {
 					width: 100%;
-					margin-left: 0;
 					margin-bottom: 3em;
 				}
 
