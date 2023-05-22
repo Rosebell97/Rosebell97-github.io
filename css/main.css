@@ -89,9 +89,9 @@ input, select, textarea {
 }
 .image2 {
   position: absolute;
-  top: 0px;
-  left: 0px;
-  height:200px;
+  top: 20px;
+  left: 10px;
+  height:175px;
   z-index: 2;
 }
 
