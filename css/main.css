@@ -74,6 +74,25 @@ input, select, textarea {
 	appearance: none;
 }
 
+/*Header/Logo Images*/
+.parent {
+  position: relative;
+  top: 0;
+  left: 0;
+}
+.image1 {
+  position: relative;
+  top: 0;
+  left: 0;
+  border: 1px solid #000000;
+}
+.image2 {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  width:200px;
+}
+
 
 
 /* Basic */
@@ -3453,7 +3472,7 @@ input, select, textarea {
 				#main input[type="button"].primary.icon:before,
 				#main button.primary.icon:before,
 				#main .button.primary.icon:before {
-					color: #ffffff !important;
+					color: #cee2cd !important;
 				}
 
 		#main label {
