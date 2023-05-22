@@ -3865,3 +3865,7 @@ input, select, textarea {
 	width:100%;
 	}
 
+	.centered {
+		width: 50%;
+		margin: 0 auto;
+	  }
