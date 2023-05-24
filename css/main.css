@@ -84,7 +84,6 @@ input, select, textarea {
   position: relative;
   top: 0;
   left: 0;
-  border: 1px solid #000000;
   z-index: 1;
 }
 .image2 {
@@ -3196,7 +3195,7 @@ input, select, textarea {
 				}
 
 					#header p br {
-						display: none;
+						display: inline-block;
 					}
 
 				#header.alt {
@@ -3358,7 +3357,7 @@ input, select, textarea {
 		@media screen and (max-width: 414px) {
 
 			#nav {
-				display: inline-block;
+				display: block;
 			}
 
 				#nav + #main {
@@ -3621,7 +3620,7 @@ input, select, textarea {
 		}
 
 		#main > .main {
-			padding: 5em 5em 3em 5em ;
+			padding: 3em 5em 3em 5em ;
 			border-top: solid 3px #cee2cd;
 		}
 
@@ -3740,7 +3739,7 @@ input, select, textarea {
 			margin: 0 auto;
 		}
 
-		#footer .copyright {
+		#footer .copyright {;
 			width: 100%;
 			margin: 2.5em 0 2em 0;
 			font-size: 0.3em;
@@ -3885,7 +3884,6 @@ input, select, textarea {
 
   .footer p {
 	font-size: 2.4rem;
-	color: #fff;
 	margin-top: 7rem;
 	text-align: center;
 	width:100%;
@@ -3894,4 +3892,4 @@ input, select, textarea {
 	.centered {
 		width: 50%;
 		margin: 0 auto;
-	  }
+	  }​
