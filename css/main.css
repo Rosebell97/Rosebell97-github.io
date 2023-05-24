@@ -3167,7 +3167,7 @@ input, select, textarea {
 			}
 
 				#header.alt {
-					padding: 6em 4em 3em 4em ;
+					padding: 0 ;
 				}
 
 		}
@@ -3179,7 +3179,7 @@ input, select, textarea {
 			}
 
 				#header.alt {
-					padding: 5em 3em 2em 3em ;
+					padding: 0 ;
 				}
 
 		}
@@ -3200,7 +3200,7 @@ input, select, textarea {
 					}
 
 				#header.alt {
-					padding: 4em 2em 1em 2em ;
+					padding: 0 ;
 				}
 
 					#header.alt h1 {
@@ -3216,7 +3216,7 @@ input, select, textarea {
 			}
 
 				#header.alt {
-					padding: 4em 1.5em 1em 1.5em ;
+					padding: 0 ;
 				}
 
 		}
@@ -3228,7 +3228,7 @@ input, select, textarea {
 			}
 
 				#header.alt {
-					padding: 3.5em 1em 0.5em 1em ;
+					padding: 0 ;
 				}
 
 		}
