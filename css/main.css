@@ -2725,7 +2725,7 @@ input, select, textarea {
 			}
 
 				header.major p br {
-					display: none;
+					display: inline-block;
 				}
 
 		footer.major {
