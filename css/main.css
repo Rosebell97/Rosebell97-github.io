@@ -30,6 +30,7 @@ h3 {
 article, aside, details, figcaption, figure,
 footer, header, hgroup, menu, nav, section {
 	display: block;}
+	text-align: center;
 
 body {
 	line-height: 1;
@@ -111,6 +112,7 @@ input, select, textarea {
 
 		html, body {
 			min-width: 320px;
+			min-height: 100%;
 		}
 
 	}
