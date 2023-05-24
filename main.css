@@ -19,7 +19,6 @@ section, summary, time, mark, audio, video {
 	font-size: 100%;
 	font: inherit;
 	vertical-align: baseline;
-	text-align:center !important;
 }
 
 h3 {
@@ -112,6 +111,8 @@ input, select, textarea {
 
 		html, body {
 			min-width: 320px;
+			min-height: 100%;
+			margin: 0 auto !important;
 		}
 
 	}
@@ -2724,7 +2725,7 @@ input, select, textarea {
 			}
 
 				header.major p br {
-					display: none;
+					display: inline-block;
 				}
 
 		footer.major {
@@ -3166,7 +3167,7 @@ input, select, textarea {
 			}
 
 				#header.alt {
-					padding: 6em 4em 3em 4em ;
+					padding: 0 ;
 				}
 
 		}
@@ -3178,7 +3179,7 @@ input, select, textarea {
 			}
 
 				#header.alt {
-					padding: 5em 3em 2em 3em ;
+					padding: 0 ;
 				}
 
 		}
@@ -3195,11 +3196,11 @@ input, select, textarea {
 				}
 
 					#header p br {
-						display: none;
+						display: inline-block;
 					}
 
 				#header.alt {
-					padding: 4em 2em 1em 2em ;
+					padding: 0 ;
 				}
 
 					#header.alt h1 {
@@ -3215,7 +3216,7 @@ input, select, textarea {
 			}
 
 				#header.alt {
-					padding: 4em 1.5em 1em 1.5em ;
+					padding: 0 ;
 				}
 
 		}
@@ -3227,7 +3228,7 @@ input, select, textarea {
 			}
 
 				#header.alt {
-					padding: 3.5em 1em 0.5em 1em ;
+					padding: 0 ;
 				}
 
 		}
@@ -3357,7 +3358,7 @@ input, select, textarea {
 		@media screen and (max-width: 414px) {
 
 			#nav {
-				display: none;
+				display: inline-block;
 			}
 
 				#nav + #main {
