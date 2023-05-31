@@ -3337,7 +3337,7 @@ input, select, textarea {
 					}
 
 		#nav.alt {
-			position: fixed;
+			position: initial;
 			top: 0;
 			padding: 0.5em 1em;
 			background-color: rgba(247, 247, 247, 0.95);
@@ -3354,7 +3354,7 @@ input, select, textarea {
 					font-size: 0.9em;
 				}
 
-		@media screen and (max-width: 414px) {
+		@media screen and (max-width: 375px) {
 
 			#nav {
 				display: block;
